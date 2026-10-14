@@ -1,0 +1,8 @@
+Assess Apex Industrial Solutions for a proposed payment of INR 85,000. GSTIN: 36AABCA1234M1Z7. Check GST verification, search Leegality for matching vendor agreements, and check the Pay2All wallet balance. Identify missing contract or signature evidence, calculate the risk only from available evidence, and recommend RELEASE, REVIEW, or HOLD with reasons. Do not execute payment, recharge, or signing workflows.
+
+
+Verify GSTIN 33AAACC1206D1ZN
+
+What is the current Pay2All wallet balance? Display the organization name, balance, currency, and API status in a dashboard card. Do not execute a transaction.
+
+Search all Leegality vendor agreements. Display the document name, document ID, status, and total number of documents in a table. Highlight draft agreements and explain which details still need verification.
